@@ -34,7 +34,7 @@
 - Statistical analysis and plots using Python
 
 
-##Day 5: Visualization in Python
+## Day 5: Visualization in Python
 - Introducing the Matplotlib library
   - Making different types of charts such as bar charts, line charts and maps
   - Formatting charts with color and text
@@ -50,17 +50,17 @@ Assignment for the course: the 2020 Class students: You will work in 9 groups, t
 You will use the same data used in the previous course, but this time you will clean, prepare, analyze and visualize the data in Python using Jupyter notebooks. You may also bring in additional datasets into your project, such as population or income data, that can help you do some deeper analysis. 
 
 The Python notebook will be graded on:
-Reproducibility: Make sure you note your steps and what each one does, and that the steps can be reproduced
-Deeper analysis: Join/merge additional data, create an automated pipeline, reformat/clean the data, do a statistical analysis, or anything that takes your analysis further than the last time 
-Conclusions/reporting questions: What story could you create from this data? What questions would you try to answer?
-Challenges: List any challenges you overcame with the data
+- Reproducibility: Make sure you note your steps and what each one does, and that the steps can be reproduced
+- Deeper analysis: Join/merge additional data, create an automated pipeline, reformat/clean the data, do a statistical analysis, or anything that takes your analysis further than the last time 
+- Conclusions/reporting questions: What story could you create from this data? What questions would you try to answer?
+- Challenges: List any challenges you overcame with the data
 
-At the end of the class, each student team will submit its work before 5:00pm (Beijing Time) on Friday, April 14 to the study principal, who will upload all the works to Prof. Carol Zhang’s Baidu drive. The submission must include your Python notebook with the above components. The group members’ Qualtrics peer evaluation results have to be sent to Prof. Carol Zhang by 12 am, midnight, on April 14. Anybody submits the Qualtrics late will be deducted 1 point; but Anybody who submits the Qualtrics later than 10am April 15 or eventually will not submit the Qualtrics will lose 5 points. Ms. Malan, Ms. Yanchen Liu and Dr. Ernest Zhang will grade each group’s production. 
+At the end of the class, each student team will submit its work before 5:00pm (Beijing Time) on **Friday, April 14** to the study principal, who will upload all the works to Prof. Carol Zhang’s Baidu drive. The submission must include your Python notebook with the above components. The group members’ Qualtrics peer evaluation results have to be sent to Prof. Carol Zhang by 12 am, midnight, on April 14. Anybody submits the Qualtrics late will be deducted 1 point; but Anybody who submits the Qualtrics later than 10am April 15 or eventually will not submit the Qualtrics will lose 5 points. Ms. Malan, Ms. Yanchen Liu and Dr. Ernest Zhang will grade each group’s production. 
 
 More details:
-Use the same data from your project in data journalism class
-Bring in additional data for context, perform statistical analysis or visualizations using Python that help you do a deeper analysis than previously done 
-Do all analysis in a Python notebook and turn in the notebook for grading
+- Use the same data from your project in data journalism class
+- Bring in additional data for context, perform statistical analysis or visualizations using Python that help you do a deeper analysis than previously done 
+- Do all analysis in a Python notebook and turn in the notebook for grading
 
 
 ## Other resources
