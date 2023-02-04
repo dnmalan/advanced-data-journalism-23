@@ -14,6 +14,9 @@
 - Data analysis with the Pandas library
 - Introduction of course group projects
 
+### Resources
+- [Pandas documentation](https://pandas.pydata.org/docs/index.html)
+
 ## Day 2: More with Pandas
 - Advanced analysis (grouping, functions, and more)
 - Merging and joining datasets
