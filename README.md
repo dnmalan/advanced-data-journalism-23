@@ -1,5 +1,14 @@
 # Course ReadMe
 
+To access course notebooks in Binder (temporary coding environment):
+
+- [Course notebooks](https://mybinder.org/v2/gh/dnmalan/advanced-data-journalism-23/HEAD)
+
+Note: These notebooks are available only during class time.
+
+To access and download course materials, including notebooks, at any time:
+
+- [Course materials on Github](https://github.com/dnmalan/advanced-data-journalism-23)
 
 ## Day 1: Using Python for advanced data journalism
 
